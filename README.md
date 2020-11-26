@@ -1,0 +1,2 @@
+# COVID19-ViNER
+The COVID19-ViNER dataset
