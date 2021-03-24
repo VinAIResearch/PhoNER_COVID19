@@ -19,7 +19,7 @@ By downloading the PhoNER_COVID19 dataset, USER agrees:
 
 - to use PhoNER_COVID19 for research or educational purposes only.
 - to **not** distribute PhoNER_COVID19 or part of PhoNER_COVID19 in any original or modified form.
-- and to cite our EMNLP-2020 Findings paper above whenever PhoNER_COVID19 is employed to help produce published results.
+- and to cite our NAACL paper above whenever PhoNER_COVID19 is employed to help produce published results.
 
 #### Copyright (c) 2021 VinAI Research
 
