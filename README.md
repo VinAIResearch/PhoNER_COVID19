@@ -1,4 +1,4 @@
-## COVID-19 named entity recognition for Vietnamese
+## COVID-19 Named Entity Recognition for Vietnamese
 
 PhoNER_COVID19 is a dataset for recognizing COVID-19 related named entities in Vietnamese, consisting of 35K entities over 10K sentences. We define 10 entity types with the aim of extracting key information related to COVID-19 patients, which are especially useful in downstream applications. In general, these entity types can be used in the context of not only the COVID-19 pandemic but also in other future epidemics:
 
@@ -9,7 +9,7 @@ PhoNER_COVID19 is a dataset for recognizing COVID-19 related named entities in V
 The construction of PhoNER_COVID19 is detailed in our NAACL 2021 [paper](https://openreview.net/pdf?id=23g3cPMcL9R):
 
 	@inproceedings{PhoNER_COVID19,
-    title     = {{COVID-19 named entity recognition for Vietnamese}},
+    title     = {{COVID-19 Named Entity Recognition for Vietnamese}},
     author    = {Thinh Hung Truong and Mai Hoang Dao and Dat Quoc Nguyen},
     booktitle = {Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
     year      = {2021}
