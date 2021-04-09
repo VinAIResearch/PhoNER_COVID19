@@ -6,7 +6,7 @@ PhoNER_COVID19 is a dataset for recognizing COVID-19 related named entities in V
 <img width="750" alt="entity types" src="https://user-images.githubusercontent.com/2412555/112276540-741ca100-8cb3-11eb-8191-9ba6cb83c72c.png">
 </p>
 
-The construction of PhoNER_COVID19 is detailed in our NAACL 2021 [paper](https://openreview.net/pdf?id=23g3cPMcL9R):
+The construction of PhoNER_COVID19 is detailed in our NAACL 2021 [paper](https://arxiv.org/abs/2104.03879):
 
 	@inproceedings{PhoNER_COVID19,
     title     = {{COVID-19 Named Entity Recognition for Vietnamese}},
