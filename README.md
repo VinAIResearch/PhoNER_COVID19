@@ -21,7 +21,7 @@ By downloading the PhoNER_COVID19 dataset, USER agrees:
 - to **not** distribute PhoNER_COVID19 or part of PhoNER_COVID19 in any original or modified form.
 - and to cite our NAACL paper above whenever PhoNER_COVID19 is employed to help produce published results.
 
-#### Copyright (c) 2021 VinAI Research
+#### Copyright (c) 2021 VinAI
 
 	THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
